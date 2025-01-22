@@ -1,0 +1,2 @@
+# with 3 obstacles
+$ python3 path_visualization_simulator.py --config "config/rm2d/rSmaze_nw3_hExt07_exp.py"
